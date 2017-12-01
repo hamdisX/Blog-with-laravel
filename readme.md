@@ -27,24 +27,29 @@ Laravel has the most extensive and thorough documentation and video tutorial lib
 
 If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
+Demo
+ ----------------------------
+Live demo  :  http://enicarthage-blog.000webhostapp.com/ <br>
+              admin : hamdismiled@gmail.com  passwd: 123456
+              
+              
+ Quick install
+-----------------------
+1) Edit the .env.example file to match your database and rename to .env
+2) composer update
+3) php artisan key:generate
+4) php artisan migarate
+5) php arttisan serve
 
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
+Contact me
+-----------------
 
-## Contributing
+<b>Linkedin</b> : https://www.linkedin.com/in/hamdi-miled-654bb910b/ <br>
+<b>Twitter</b> : https://twitter.com/hamdi__miled
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
 ## License
 
